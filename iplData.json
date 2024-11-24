@@ -1,0 +1,1412 @@
+{
+  "2019": {
+    "orange-cap": [
+      {
+        "rank": "1",
+        "player": "Virat Kohli\nRCB",
+        "team": "741",
+        "stat": "15"
+      },
+      {
+        "rank": "2",
+        "player": "Ruturaj Gaikwad\nCSK",
+        "team": "583",
+        "stat": "14"
+      },
+      {
+        "rank": "3",
+        "player": "Riyan Parag\nRR",
+        "team": "573",
+        "stat": "16"
+      },
+      {
+        "rank": "4",
+        "player": "Travis Head\nSRH",
+        "team": "567",
+        "stat": "15"
+      },
+      {
+        "rank": "5",
+        "player": "Sanju Samson\nRR",
+        "team": "531",
+        "stat": "16"
+      },
+      {
+        "rank": "6",
+        "player": "Sai Sudharsan\nGT",
+        "team": "527",
+        "stat": "12"
+      },
+      {
+        "rank": "7",
+        "player": "K L Rahul\nLSG",
+        "team": "520",
+        "stat": "14"
+      },
+      {
+        "rank": "8",
+        "player": "Nicholas Pooran\nLSG",
+        "team": "499",
+        "stat": "14"
+      },
+      {
+        "rank": "9",
+        "player": "Sunil Narine\nKKR",
+        "team": "488",
+        "stat": "15"
+      }
+    ],
+    "most-fours": [
+      {
+        "rank": "1",
+        "player": "Virat Kohli\nRCB",
+        "team": "741",
+        "stat": "15"
+      },
+      {
+        "rank": "2",
+        "player": "Ruturaj Gaikwad\nCSK",
+        "team": "583",
+        "stat": "14"
+      },
+      {
+        "rank": "3",
+        "player": "Riyan Parag\nRR",
+        "team": "573",
+        "stat": "16"
+      },
+      {
+        "rank": "4",
+        "player": "Travis Head\nSRH",
+        "team": "567",
+        "stat": "15"
+      },
+      {
+        "rank": "5",
+        "player": "Sanju Samson\nRR",
+        "team": "531",
+        "stat": "16"
+      },
+      {
+        "rank": "6",
+        "player": "Sai Sudharsan\nGT",
+        "team": "527",
+        "stat": "12"
+      },
+      {
+        "rank": "7",
+        "player": "K L Rahul\nLSG",
+        "team": "520",
+        "stat": "14"
+      },
+      {
+        "rank": "8",
+        "player": "Nicholas Pooran\nLSG",
+        "team": "499",
+        "stat": "14"
+      },
+      {
+        "rank": "9",
+        "player": "Sunil Narine\nKKR",
+        "team": "488",
+        "stat": "15"
+      }
+    ],
+    "most-sixes": [
+      {
+        "rank": "1",
+        "player": "Virat Kohli\nRCB",
+        "team": "741",
+        "stat": "15"
+      },
+      {
+        "rank": "2",
+        "player": "Ruturaj Gaikwad\nCSK",
+        "team": "583",
+        "stat": "14"
+      },
+      {
+        "rank": "3",
+        "player": "Riyan Parag\nRR",
+        "team": "573",
+        "stat": "16"
+      },
+      {
+        "rank": "4",
+        "player": "Travis Head\nSRH",
+        "team": "567",
+        "stat": "15"
+      },
+      {
+        "rank": "5",
+        "player": "Sanju Samson\nRR",
+        "team": "531",
+        "stat": "16"
+      },
+      {
+        "rank": "6",
+        "player": "Sai Sudharsan\nGT",
+        "team": "527",
+        "stat": "12"
+      },
+      {
+        "rank": "7",
+        "player": "K L Rahul\nLSG",
+        "team": "520",
+        "stat": "14"
+      },
+      {
+        "rank": "8",
+        "player": "Nicholas Pooran\nLSG",
+        "team": "499",
+        "stat": "14"
+      },
+      {
+        "rank": "9",
+        "player": "Sunil Narine\nKKR",
+        "team": "488",
+        "stat": "15"
+      }
+    ],
+    "most-centuries": [
+      {
+        "rank": "1",
+        "player": "Virat Kohli\nRCB",
+        "team": "741",
+        "stat": "15"
+      },
+      {
+        "rank": "2",
+        "player": "Ruturaj Gaikwad\nCSK",
+        "team": "583",
+        "stat": "14"
+      },
+      {
+        "rank": "3",
+        "player": "Riyan Parag\nRR",
+        "team": "573",
+        "stat": "16"
+      },
+      {
+        "rank": "4",
+        "player": "Travis Head\nSRH",
+        "team": "567",
+        "stat": "15"
+      },
+      {
+        "rank": "5",
+        "player": "Sanju Samson\nRR",
+        "team": "531",
+        "stat": "16"
+      },
+      {
+        "rank": "6",
+        "player": "Sai Sudharsan\nGT",
+        "team": "527",
+        "stat": "12"
+      },
+      {
+        "rank": "7",
+        "player": "K L Rahul\nLSG",
+        "team": "520",
+        "stat": "14"
+      },
+      {
+        "rank": "8",
+        "player": "Nicholas Pooran\nLSG",
+        "team": "499",
+        "stat": "14"
+      },
+      {
+        "rank": "9",
+        "player": "Sunil Narine\nKKR",
+        "team": "488",
+        "stat": "15"
+      }
+    ],
+    "most-fifties": [
+      {
+        "rank": "1",
+        "player": "Virat Kohli\nRCB",
+        "team": "741",
+        "stat": "15"
+      },
+      {
+        "rank": "2",
+        "player": "Ruturaj Gaikwad\nCSK",
+        "team": "583",
+        "stat": "14"
+      },
+      {
+        "rank": "3",
+        "player": "Riyan Parag\nRR",
+        "team": "573",
+        "stat": "16"
+      },
+      {
+        "rank": "4",
+        "player": "Travis Head\nSRH",
+        "team": "567",
+        "stat": "15"
+      },
+      {
+        "rank": "5",
+        "player": "Sanju Samson\nRR",
+        "team": "531",
+        "stat": "16"
+      },
+      {
+        "rank": "6",
+        "player": "Sai Sudharsan\nGT",
+        "team": "527",
+        "stat": "12"
+      },
+      {
+        "rank": "7",
+        "player": "K L Rahul\nLSG",
+        "team": "520",
+        "stat": "14"
+      },
+      {
+        "rank": "8",
+        "player": "Nicholas Pooran\nLSG",
+        "team": "499",
+        "stat": "14"
+      },
+      {
+        "rank": "9",
+        "player": "Sunil Narine\nKKR",
+        "team": "488",
+        "stat": "15"
+      }
+    ]
+  },
+  "2020": {
+    "orange-cap": [
+      {
+        "rank": "1",
+        "player": "Virat Kohli\nRCB",
+        "team": "741",
+        "stat": "15"
+      },
+      {
+        "rank": "2",
+        "player": "Ruturaj Gaikwad\nCSK",
+        "team": "583",
+        "stat": "14"
+      },
+      {
+        "rank": "3",
+        "player": "Riyan Parag\nRR",
+        "team": "573",
+        "stat": "16"
+      },
+      {
+        "rank": "4",
+        "player": "Travis Head\nSRH",
+        "team": "567",
+        "stat": "15"
+      },
+      {
+        "rank": "5",
+        "player": "Sanju Samson\nRR",
+        "team": "531",
+        "stat": "16"
+      },
+      {
+        "rank": "6",
+        "player": "Sai Sudharsan\nGT",
+        "team": "527",
+        "stat": "12"
+      },
+      {
+        "rank": "7",
+        "player": "K L Rahul\nLSG",
+        "team": "520",
+        "stat": "14"
+      },
+      {
+        "rank": "8",
+        "player": "Nicholas Pooran\nLSG",
+        "team": "499",
+        "stat": "14"
+      },
+      {
+        "rank": "9",
+        "player": "Sunil Narine\nKKR",
+        "team": "488",
+        "stat": "15"
+      }
+    ],
+    "most-fours": [
+      {
+        "rank": "1",
+        "player": "Virat Kohli\nRCB",
+        "team": "741",
+        "stat": "15"
+      },
+      {
+        "rank": "2",
+        "player": "Ruturaj Gaikwad\nCSK",
+        "team": "583",
+        "stat": "14"
+      },
+      {
+        "rank": "3",
+        "player": "Riyan Parag\nRR",
+        "team": "573",
+        "stat": "16"
+      },
+      {
+        "rank": "4",
+        "player": "Travis Head\nSRH",
+        "team": "567",
+        "stat": "15"
+      },
+      {
+        "rank": "5",
+        "player": "Sanju Samson\nRR",
+        "team": "531",
+        "stat": "16"
+      },
+      {
+        "rank": "6",
+        "player": "Sai Sudharsan\nGT",
+        "team": "527",
+        "stat": "12"
+      },
+      {
+        "rank": "7",
+        "player": "K L Rahul\nLSG",
+        "team": "520",
+        "stat": "14"
+      },
+      {
+        "rank": "8",
+        "player": "Nicholas Pooran\nLSG",
+        "team": "499",
+        "stat": "14"
+      },
+      {
+        "rank": "9",
+        "player": "Sunil Narine\nKKR",
+        "team": "488",
+        "stat": "15"
+      }
+    ],
+    "most-sixes": [
+      {
+        "rank": "1",
+        "player": "Virat Kohli\nRCB",
+        "team": "741",
+        "stat": "15"
+      },
+      {
+        "rank": "2",
+        "player": "Ruturaj Gaikwad\nCSK",
+        "team": "583",
+        "stat": "14"
+      },
+      {
+        "rank": "3",
+        "player": "Riyan Parag\nRR",
+        "team": "573",
+        "stat": "16"
+      },
+      {
+        "rank": "4",
+        "player": "Travis Head\nSRH",
+        "team": "567",
+        "stat": "15"
+      },
+      {
+        "rank": "5",
+        "player": "Sanju Samson\nRR",
+        "team": "531",
+        "stat": "16"
+      },
+      {
+        "rank": "6",
+        "player": "Sai Sudharsan\nGT",
+        "team": "527",
+        "stat": "12"
+      },
+      {
+        "rank": "7",
+        "player": "K L Rahul\nLSG",
+        "team": "520",
+        "stat": "14"
+      },
+      {
+        "rank": "8",
+        "player": "Nicholas Pooran\nLSG",
+        "team": "499",
+        "stat": "14"
+      },
+      {
+        "rank": "9",
+        "player": "Sunil Narine\nKKR",
+        "team": "488",
+        "stat": "15"
+      }
+    ],
+    "most-centuries": [
+      {
+        "rank": "1",
+        "player": "Virat Kohli\nRCB",
+        "team": "741",
+        "stat": "15"
+      },
+      {
+        "rank": "2",
+        "player": "Ruturaj Gaikwad\nCSK",
+        "team": "583",
+        "stat": "14"
+      },
+      {
+        "rank": "3",
+        "player": "Riyan Parag\nRR",
+        "team": "573",
+        "stat": "16"
+      },
+      {
+        "rank": "4",
+        "player": "Travis Head\nSRH",
+        "team": "567",
+        "stat": "15"
+      },
+      {
+        "rank": "5",
+        "player": "Sanju Samson\nRR",
+        "team": "531",
+        "stat": "16"
+      },
+      {
+        "rank": "6",
+        "player": "Sai Sudharsan\nGT",
+        "team": "527",
+        "stat": "12"
+      },
+      {
+        "rank": "7",
+        "player": "K L Rahul\nLSG",
+        "team": "520",
+        "stat": "14"
+      },
+      {
+        "rank": "8",
+        "player": "Nicholas Pooran\nLSG",
+        "team": "499",
+        "stat": "14"
+      },
+      {
+        "rank": "9",
+        "player": "Sunil Narine\nKKR",
+        "team": "488",
+        "stat": "15"
+      }
+    ],
+    "most-fifties": [
+      {
+        "rank": "1",
+        "player": "Virat Kohli\nRCB",
+        "team": "741",
+        "stat": "15"
+      },
+      {
+        "rank": "2",
+        "player": "Ruturaj Gaikwad\nCSK",
+        "team": "583",
+        "stat": "14"
+      },
+      {
+        "rank": "3",
+        "player": "Riyan Parag\nRR",
+        "team": "573",
+        "stat": "16"
+      },
+      {
+        "rank": "4",
+        "player": "Travis Head\nSRH",
+        "team": "567",
+        "stat": "15"
+      },
+      {
+        "rank": "5",
+        "player": "Sanju Samson\nRR",
+        "team": "531",
+        "stat": "16"
+      },
+      {
+        "rank": "6",
+        "player": "Sai Sudharsan\nGT",
+        "team": "527",
+        "stat": "12"
+      },
+      {
+        "rank": "7",
+        "player": "K L Rahul\nLSG",
+        "team": "520",
+        "stat": "14"
+      },
+      {
+        "rank": "8",
+        "player": "Nicholas Pooran\nLSG",
+        "team": "499",
+        "stat": "14"
+      },
+      {
+        "rank": "9",
+        "player": "Sunil Narine\nKKR",
+        "team": "488",
+        "stat": "15"
+      }
+    ]
+  },
+  "2021": {
+    "orange-cap": [
+      {
+        "rank": "1",
+        "player": "Virat Kohli\nRCB",
+        "team": "741",
+        "stat": "15"
+      },
+      {
+        "rank": "2",
+        "player": "Ruturaj Gaikwad\nCSK",
+        "team": "583",
+        "stat": "14"
+      },
+      {
+        "rank": "3",
+        "player": "Riyan Parag\nRR",
+        "team": "573",
+        "stat": "16"
+      },
+      {
+        "rank": "4",
+        "player": "Travis Head\nSRH",
+        "team": "567",
+        "stat": "15"
+      },
+      {
+        "rank": "5",
+        "player": "Sanju Samson\nRR",
+        "team": "531",
+        "stat": "16"
+      },
+      {
+        "rank": "6",
+        "player": "Sai Sudharsan\nGT",
+        "team": "527",
+        "stat": "12"
+      },
+      {
+        "rank": "7",
+        "player": "K L Rahul\nLSG",
+        "team": "520",
+        "stat": "14"
+      },
+      {
+        "rank": "8",
+        "player": "Nicholas Pooran\nLSG",
+        "team": "499",
+        "stat": "14"
+      },
+      {
+        "rank": "9",
+        "player": "Sunil Narine\nKKR",
+        "team": "488",
+        "stat": "15"
+      }
+    ],
+    "most-fours": [
+      {
+        "rank": "1",
+        "player": "Virat Kohli\nRCB",
+        "team": "741",
+        "stat": "15"
+      },
+      {
+        "rank": "2",
+        "player": "Ruturaj Gaikwad\nCSK",
+        "team": "583",
+        "stat": "14"
+      },
+      {
+        "rank": "3",
+        "player": "Riyan Parag\nRR",
+        "team": "573",
+        "stat": "16"
+      },
+      {
+        "rank": "4",
+        "player": "Travis Head\nSRH",
+        "team": "567",
+        "stat": "15"
+      },
+      {
+        "rank": "5",
+        "player": "Sanju Samson\nRR",
+        "team": "531",
+        "stat": "16"
+      },
+      {
+        "rank": "6",
+        "player": "Sai Sudharsan\nGT",
+        "team": "527",
+        "stat": "12"
+      },
+      {
+        "rank": "7",
+        "player": "K L Rahul\nLSG",
+        "team": "520",
+        "stat": "14"
+      },
+      {
+        "rank": "8",
+        "player": "Nicholas Pooran\nLSG",
+        "team": "499",
+        "stat": "14"
+      },
+      {
+        "rank": "9",
+        "player": "Sunil Narine\nKKR",
+        "team": "488",
+        "stat": "15"
+      }
+    ],
+    "most-sixes": [
+      {
+        "rank": "1",
+        "player": "Virat Kohli\nRCB",
+        "team": "741",
+        "stat": "15"
+      },
+      {
+        "rank": "2",
+        "player": "Ruturaj Gaikwad\nCSK",
+        "team": "583",
+        "stat": "14"
+      },
+      {
+        "rank": "3",
+        "player": "Riyan Parag\nRR",
+        "team": "573",
+        "stat": "16"
+      },
+      {
+        "rank": "4",
+        "player": "Travis Head\nSRH",
+        "team": "567",
+        "stat": "15"
+      },
+      {
+        "rank": "5",
+        "player": "Sanju Samson\nRR",
+        "team": "531",
+        "stat": "16"
+      },
+      {
+        "rank": "6",
+        "player": "Sai Sudharsan\nGT",
+        "team": "527",
+        "stat": "12"
+      },
+      {
+        "rank": "7",
+        "player": "K L Rahul\nLSG",
+        "team": "520",
+        "stat": "14"
+      },
+      {
+        "rank": "8",
+        "player": "Nicholas Pooran\nLSG",
+        "team": "499",
+        "stat": "14"
+      },
+      {
+        "rank": "9",
+        "player": "Sunil Narine\nKKR",
+        "team": "488",
+        "stat": "15"
+      }
+    ],
+    "most-centuries": [
+      {
+        "rank": "1",
+        "player": "Virat Kohli\nRCB",
+        "team": "741",
+        "stat": "15"
+      },
+      {
+        "rank": "2",
+        "player": "Ruturaj Gaikwad\nCSK",
+        "team": "583",
+        "stat": "14"
+      },
+      {
+        "rank": "3",
+        "player": "Riyan Parag\nRR",
+        "team": "573",
+        "stat": "16"
+      },
+      {
+        "rank": "4",
+        "player": "Travis Head\nSRH",
+        "team": "567",
+        "stat": "15"
+      },
+      {
+        "rank": "5",
+        "player": "Sanju Samson\nRR",
+        "team": "531",
+        "stat": "16"
+      },
+      {
+        "rank": "6",
+        "player": "Sai Sudharsan\nGT",
+        "team": "527",
+        "stat": "12"
+      },
+      {
+        "rank": "7",
+        "player": "K L Rahul\nLSG",
+        "team": "520",
+        "stat": "14"
+      },
+      {
+        "rank": "8",
+        "player": "Nicholas Pooran\nLSG",
+        "team": "499",
+        "stat": "14"
+      },
+      {
+        "rank": "9",
+        "player": "Sunil Narine\nKKR",
+        "team": "488",
+        "stat": "15"
+      }
+    ],
+    "most-fifties": [
+      {
+        "rank": "1",
+        "player": "Virat Kohli\nRCB",
+        "team": "741",
+        "stat": "15"
+      },
+      {
+        "rank": "2",
+        "player": "Ruturaj Gaikwad\nCSK",
+        "team": "583",
+        "stat": "14"
+      },
+      {
+        "rank": "3",
+        "player": "Riyan Parag\nRR",
+        "team": "573",
+        "stat": "16"
+      },
+      {
+        "rank": "4",
+        "player": "Travis Head\nSRH",
+        "team": "567",
+        "stat": "15"
+      },
+      {
+        "rank": "5",
+        "player": "Sanju Samson\nRR",
+        "team": "531",
+        "stat": "16"
+      },
+      {
+        "rank": "6",
+        "player": "Sai Sudharsan\nGT",
+        "team": "527",
+        "stat": "12"
+      },
+      {
+        "rank": "7",
+        "player": "K L Rahul\nLSG",
+        "team": "520",
+        "stat": "14"
+      },
+      {
+        "rank": "8",
+        "player": "Nicholas Pooran\nLSG",
+        "team": "499",
+        "stat": "14"
+      },
+      {
+        "rank": "9",
+        "player": "Sunil Narine\nKKR",
+        "team": "488",
+        "stat": "15"
+      }
+    ]
+  },
+  "2022": {
+    "orange-cap": [
+      {
+        "rank": "1",
+        "player": "Virat Kohli\nRCB",
+        "team": "741",
+        "stat": "15"
+      },
+      {
+        "rank": "2",
+        "player": "Ruturaj Gaikwad\nCSK",
+        "team": "583",
+        "stat": "14"
+      },
+      {
+        "rank": "3",
+        "player": "Riyan Parag\nRR",
+        "team": "573",
+        "stat": "16"
+      },
+      {
+        "rank": "4",
+        "player": "Travis Head\nSRH",
+        "team": "567",
+        "stat": "15"
+      },
+      {
+        "rank": "5",
+        "player": "Sanju Samson\nRR",
+        "team": "531",
+        "stat": "16"
+      },
+      {
+        "rank": "6",
+        "player": "Sai Sudharsan\nGT",
+        "team": "527",
+        "stat": "12"
+      },
+      {
+        "rank": "7",
+        "player": "K L Rahul\nLSG",
+        "team": "520",
+        "stat": "14"
+      },
+      {
+        "rank": "8",
+        "player": "Nicholas Pooran\nLSG",
+        "team": "499",
+        "stat": "14"
+      },
+      {
+        "rank": "9",
+        "player": "Sunil Narine\nKKR",
+        "team": "488",
+        "stat": "15"
+      }
+    ],
+    "most-fours": [
+      {
+        "rank": "1",
+        "player": "Virat Kohli\nRCB",
+        "team": "741",
+        "stat": "15"
+      },
+      {
+        "rank": "2",
+        "player": "Ruturaj Gaikwad\nCSK",
+        "team": "583",
+        "stat": "14"
+      },
+      {
+        "rank": "3",
+        "player": "Riyan Parag\nRR",
+        "team": "573",
+        "stat": "16"
+      },
+      {
+        "rank": "4",
+        "player": "Travis Head\nSRH",
+        "team": "567",
+        "stat": "15"
+      },
+      {
+        "rank": "5",
+        "player": "Sanju Samson\nRR",
+        "team": "531",
+        "stat": "16"
+      },
+      {
+        "rank": "6",
+        "player": "Sai Sudharsan\nGT",
+        "team": "527",
+        "stat": "12"
+      },
+      {
+        "rank": "7",
+        "player": "K L Rahul\nLSG",
+        "team": "520",
+        "stat": "14"
+      },
+      {
+        "rank": "8",
+        "player": "Nicholas Pooran\nLSG",
+        "team": "499",
+        "stat": "14"
+      },
+      {
+        "rank": "9",
+        "player": "Sunil Narine\nKKR",
+        "team": "488",
+        "stat": "15"
+      }
+    ],
+    "most-sixes": [
+      {
+        "rank": "1",
+        "player": "Virat Kohli\nRCB",
+        "team": "741",
+        "stat": "15"
+      },
+      {
+        "rank": "2",
+        "player": "Ruturaj Gaikwad\nCSK",
+        "team": "583",
+        "stat": "14"
+      },
+      {
+        "rank": "3",
+        "player": "Riyan Parag\nRR",
+        "team": "573",
+        "stat": "16"
+      },
+      {
+        "rank": "4",
+        "player": "Travis Head\nSRH",
+        "team": "567",
+        "stat": "15"
+      },
+      {
+        "rank": "5",
+        "player": "Sanju Samson\nRR",
+        "team": "531",
+        "stat": "16"
+      },
+      {
+        "rank": "6",
+        "player": "Sai Sudharsan\nGT",
+        "team": "527",
+        "stat": "12"
+      },
+      {
+        "rank": "7",
+        "player": "K L Rahul\nLSG",
+        "team": "520",
+        "stat": "14"
+      },
+      {
+        "rank": "8",
+        "player": "Nicholas Pooran\nLSG",
+        "team": "499",
+        "stat": "14"
+      },
+      {
+        "rank": "9",
+        "player": "Sunil Narine\nKKR",
+        "team": "488",
+        "stat": "15"
+      }
+    ],
+    "most-centuries": [
+      {
+        "rank": "1",
+        "player": "Virat Kohli\nRCB",
+        "team": "741",
+        "stat": "15"
+      },
+      {
+        "rank": "2",
+        "player": "Ruturaj Gaikwad\nCSK",
+        "team": "583",
+        "stat": "14"
+      },
+      {
+        "rank": "3",
+        "player": "Riyan Parag\nRR",
+        "team": "573",
+        "stat": "16"
+      },
+      {
+        "rank": "4",
+        "player": "Travis Head\nSRH",
+        "team": "567",
+        "stat": "15"
+      },
+      {
+        "rank": "5",
+        "player": "Sanju Samson\nRR",
+        "team": "531",
+        "stat": "16"
+      },
+      {
+        "rank": "6",
+        "player": "Sai Sudharsan\nGT",
+        "team": "527",
+        "stat": "12"
+      },
+      {
+        "rank": "7",
+        "player": "K L Rahul\nLSG",
+        "team": "520",
+        "stat": "14"
+      },
+      {
+        "rank": "8",
+        "player": "Nicholas Pooran\nLSG",
+        "team": "499",
+        "stat": "14"
+      },
+      {
+        "rank": "9",
+        "player": "Sunil Narine\nKKR",
+        "team": "488",
+        "stat": "15"
+      }
+    ],
+    "most-fifties": [
+      {
+        "rank": "1",
+        "player": "Virat Kohli\nRCB",
+        "team": "741",
+        "stat": "15"
+      },
+      {
+        "rank": "2",
+        "player": "Ruturaj Gaikwad\nCSK",
+        "team": "583",
+        "stat": "14"
+      },
+      {
+        "rank": "3",
+        "player": "Riyan Parag\nRR",
+        "team": "573",
+        "stat": "16"
+      },
+      {
+        "rank": "4",
+        "player": "Travis Head\nSRH",
+        "team": "567",
+        "stat": "15"
+      },
+      {
+        "rank": "5",
+        "player": "Sanju Samson\nRR",
+        "team": "531",
+        "stat": "16"
+      },
+      {
+        "rank": "6",
+        "player": "Sai Sudharsan\nGT",
+        "team": "527",
+        "stat": "12"
+      },
+      {
+        "rank": "7",
+        "player": "K L Rahul\nLSG",
+        "team": "520",
+        "stat": "14"
+      },
+      {
+        "rank": "8",
+        "player": "Nicholas Pooran\nLSG",
+        "team": "499",
+        "stat": "14"
+      },
+      {
+        "rank": "9",
+        "player": "Sunil Narine\nKKR",
+        "team": "488",
+        "stat": "15"
+      }
+    ]
+  },
+  "2023": {
+    "orange-cap": [
+      {
+        "rank": "1",
+        "player": "Virat Kohli\nRCB",
+        "team": "741",
+        "stat": "15"
+      },
+      {
+        "rank": "2",
+        "player": "Ruturaj Gaikwad\nCSK",
+        "team": "583",
+        "stat": "14"
+      },
+      {
+        "rank": "3",
+        "player": "Riyan Parag\nRR",
+        "team": "573",
+        "stat": "16"
+      },
+      {
+        "rank": "4",
+        "player": "Travis Head\nSRH",
+        "team": "567",
+        "stat": "15"
+      },
+      {
+        "rank": "5",
+        "player": "Sanju Samson\nRR",
+        "team": "531",
+        "stat": "16"
+      },
+      {
+        "rank": "6",
+        "player": "Sai Sudharsan\nGT",
+        "team": "527",
+        "stat": "12"
+      },
+      {
+        "rank": "7",
+        "player": "K L Rahul\nLSG",
+        "team": "520",
+        "stat": "14"
+      },
+      {
+        "rank": "8",
+        "player": "Nicholas Pooran\nLSG",
+        "team": "499",
+        "stat": "14"
+      },
+      {
+        "rank": "9",
+        "player": "Sunil Narine\nKKR",
+        "team": "488",
+        "stat": "15"
+      }
+    ],
+    "most-fours": [
+      {
+        "rank": "1",
+        "player": "Virat Kohli\nRCB",
+        "team": "741",
+        "stat": "15"
+      },
+      {
+        "rank": "2",
+        "player": "Ruturaj Gaikwad\nCSK",
+        "team": "583",
+        "stat": "14"
+      },
+      {
+        "rank": "3",
+        "player": "Riyan Parag\nRR",
+        "team": "573",
+        "stat": "16"
+      },
+      {
+        "rank": "4",
+        "player": "Travis Head\nSRH",
+        "team": "567",
+        "stat": "15"
+      },
+      {
+        "rank": "5",
+        "player": "Sanju Samson\nRR",
+        "team": "531",
+        "stat": "16"
+      },
+      {
+        "rank": "6",
+        "player": "Sai Sudharsan\nGT",
+        "team": "527",
+        "stat": "12"
+      },
+      {
+        "rank": "7",
+        "player": "K L Rahul\nLSG",
+        "team": "520",
+        "stat": "14"
+      },
+      {
+        "rank": "8",
+        "player": "Nicholas Pooran\nLSG",
+        "team": "499",
+        "stat": "14"
+      },
+      {
+        "rank": "9",
+        "player": "Sunil Narine\nKKR",
+        "team": "488",
+        "stat": "15"
+      }
+    ],
+    "most-sixes": [
+      {
+        "rank": "1",
+        "player": "Virat Kohli\nRCB",
+        "team": "741",
+        "stat": "15"
+      },
+      {
+        "rank": "2",
+        "player": "Ruturaj Gaikwad\nCSK",
+        "team": "583",
+        "stat": "14"
+      },
+      {
+        "rank": "3",
+        "player": "Riyan Parag\nRR",
+        "team": "573",
+        "stat": "16"
+      },
+      {
+        "rank": "4",
+        "player": "Travis Head\nSRH",
+        "team": "567",
+        "stat": "15"
+      },
+      {
+        "rank": "5",
+        "player": "Sanju Samson\nRR",
+        "team": "531",
+        "stat": "16"
+      },
+      {
+        "rank": "6",
+        "player": "Sai Sudharsan\nGT",
+        "team": "527",
+        "stat": "12"
+      },
+      {
+        "rank": "7",
+        "player": "K L Rahul\nLSG",
+        "team": "520",
+        "stat": "14"
+      },
+      {
+        "rank": "8",
+        "player": "Nicholas Pooran\nLSG",
+        "team": "499",
+        "stat": "14"
+      },
+      {
+        "rank": "9",
+        "player": "Sunil Narine\nKKR",
+        "team": "488",
+        "stat": "15"
+      }
+    ],
+    "most-centuries": [
+      {
+        "rank": "1",
+        "player": "Virat Kohli\nRCB",
+        "team": "741",
+        "stat": "15"
+      },
+      {
+        "rank": "2",
+        "player": "Ruturaj Gaikwad\nCSK",
+        "team": "583",
+        "stat": "14"
+      },
+      {
+        "rank": "3",
+        "player": "Riyan Parag\nRR",
+        "team": "573",
+        "stat": "16"
+      },
+      {
+        "rank": "4",
+        "player": "Travis Head\nSRH",
+        "team": "567",
+        "stat": "15"
+      },
+      {
+        "rank": "5",
+        "player": "Sanju Samson\nRR",
+        "team": "531",
+        "stat": "16"
+      },
+      {
+        "rank": "6",
+        "player": "Sai Sudharsan\nGT",
+        "team": "527",
+        "stat": "12"
+      },
+      {
+        "rank": "7",
+        "player": "K L Rahul\nLSG",
+        "team": "520",
+        "stat": "14"
+      },
+      {
+        "rank": "8",
+        "player": "Nicholas Pooran\nLSG",
+        "team": "499",
+        "stat": "14"
+      },
+      {
+        "rank": "9",
+        "player": "Sunil Narine\nKKR",
+        "team": "488",
+        "stat": "15"
+      }
+    ],
+    "most-fifties": [
+      {
+        "rank": "1",
+        "player": "Virat Kohli\nRCB",
+        "team": "741",
+        "stat": "15"
+      },
+      {
+        "rank": "2",
+        "player": "Ruturaj Gaikwad\nCSK",
+        "team": "583",
+        "stat": "14"
+      },
+      {
+        "rank": "3",
+        "player": "Riyan Parag\nRR",
+        "team": "573",
+        "stat": "16"
+      },
+      {
+        "rank": "4",
+        "player": "Travis Head\nSRH",
+        "team": "567",
+        "stat": "15"
+      },
+      {
+        "rank": "5",
+        "player": "Sanju Samson\nRR",
+        "team": "531",
+        "stat": "16"
+      },
+      {
+        "rank": "6",
+        "player": "Sai Sudharsan\nGT",
+        "team": "527",
+        "stat": "12"
+      },
+      {
+        "rank": "7",
+        "player": "K L Rahul\nLSG",
+        "team": "520",
+        "stat": "14"
+      },
+      {
+        "rank": "8",
+        "player": "Nicholas Pooran\nLSG",
+        "team": "499",
+        "stat": "14"
+      },
+      {
+        "rank": "9",
+        "player": "Sunil Narine\nKKR",
+        "team": "488",
+        "stat": "15"
+      }
+    ]
+  }
+}

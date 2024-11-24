@@ -1,0 +1,15 @@
+{
+  "name": "web-scrapping-ipl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chart.js": "^4.4.6",
+    "puppeteer": "^23.9.0"
+  }
+}
