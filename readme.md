@@ -26,8 +26,8 @@ To set up the project locally, follow these steps:
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/your-username/ipl-stats-visualization.git
-   cd ipl-stats-visualization
+   git clone https://github.com/praveen00219/Web-Scraping-IPL.git
+   cd Web-Scraping-IPL
    ```
 
 2. Install the dependencies:
@@ -36,12 +36,11 @@ To set up the project locally, follow these steps:
    npm install
    ```
 
-2. Install the dependencies:
+3. Install the dependencies:
 
    ```sh
    npm install
    ```
-
 
 ## Usage
 
